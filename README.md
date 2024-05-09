@@ -18,7 +18,7 @@ The ultimate goal of this research is to build a regression model that accuratel
 
 The dataset provides comprehensive information on adult mortality rates across different countries from 2019 to 2021. Below is a summary table detailing key variables and their descriptions:
 
-**[Adult mortality rate (2019-2021).csv]**
+**Adult mortality rate (2019-2021).csv**
 
 | Variable              | Description                                                                                           |
 |-----------------------|-------------------------------------------------------------------------------------------------------|
